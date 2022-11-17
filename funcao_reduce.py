@@ -20,3 +20,5 @@ lista2 = [30,67,1000,61,90]
 testmaior = lambda x,y: x if (x>y) else y
 
 print(reduce(testmaior,lista2))
+
+print(reduce(testmaior,lista2))
